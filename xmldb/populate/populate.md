@@ -7,7 +7,7 @@ Estimated Time: 15 minutes
 
 ### Objectives
 In this lab, you will learn:
-1.	How to create and populate a table with an XMLType column
+- How to create and populate a table with an XMLType column
 
 ### Prerequisites
 - Be logged into your Oracle Cloud Account

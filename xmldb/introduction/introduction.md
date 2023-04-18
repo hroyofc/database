@@ -6,6 +6,20 @@ In this workshop, we will discuss some of the basic capabilities of Oracle XML D
 
 Estimated Workshop Time: 3 hours, 30 minutes
 
+### Objectives
+
+In this workshop, we intend to cover the following topics:
+-	How to provision an Oracle Autonomous Database
+-	Fundamentals of XML, XQuery, SQL/XML
+-	How to store, query, process, and update XML data
+-	How to transform relational data to XML data
+-	How to transform XML data to relational data
+-	How to index XML data
+
+### Prerequisites
+
+-	An Oracle Cloud Account
+
 ## What Is XML?
 
 XML is a human-readable, machine-readable, and self-describing format to represent data in a hierarchical format. Here is an example of an XML document containing information on a purchase order. 
@@ -59,20 +73,6 @@ XML is one of the popular ways to persist and exchange business-critical informa
 ## What Does Oracle XML DB Offer?
 To meet this need, Oracle developed Oracle XML DB. Oracle XML DB is a high-performance, native XML storage, and retrieval technology that is delivered as a part of Oracle Database. Oracle XML DB allows an organization to manage XML content in the same way that it manages traditional relational data. This allows organizations to save costs and improve return on investment by using a single platform to manage and secure all their mission-critical data. Oracle XML DB was first released with Oracle 9iR2, and it has been enhanced in each subsequent major release of the database.
 
-
-## Objectives
-
-In this workshop, we intend to cover the following topics:
--	How to provision an Oracle Autonomous Database
--	Fundamentals of XML, XQuery, SQL/XML
--	How to store, query, process, and update XML data
--	How to transform relational data to XML data
--	How to transform XML data to relational data
--	How to index XML data
-
-### Prerequisites
-
--	An Oracle Cloud Account
 
 You may now **proceed to the next lab**.
 
